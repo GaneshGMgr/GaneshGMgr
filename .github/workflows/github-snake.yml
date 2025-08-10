@@ -1,0 +1,31 @@
+name: GitHub Snake
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'  # Runs every 5 minutes
+  workflow_dispatch:
+
+jobs:
+  github-snake:
+    runs-on: windows-latest  # Changed to Windows runner
+    steps:
+      - uses: actions/checkout@v3  # Checks out your repo
+
+      - name: Generate GitHub Snake
+        uses: Platane/snk@v2  # Correct action name
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: output/  # Where SVG files are saved
+          color_background: "transparent"
+          color_snake: "yellow"  # Snake color
+          color_border: "yellow"  # Border color
+          verbose: true  # Optional: Shows logs
+
+      - name: Commit and Push Changes
+        shell: pwsh  # Uses PowerShell (Windows)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/snk.svg  # Default output file (check if it's different)
+          git commit -m "Update GitHub Snake"
+          git push
