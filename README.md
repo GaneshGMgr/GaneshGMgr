@@ -10,21 +10,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🤖 AI & ML Projects
-- **Multi-Agent AI System** - CrewAI, Ollama, FastAPI
-- **LLM Research Assistant** - LLaMA, FAISS, HuggingFace  
-- **Intelligent Q&A System** - RAG, Transformers, FastAPI
-- **Computer Vision Pipeline** - OpenCV, scikit-learn
-
-### 💻 Full-Stack Projects
-- **Enterprise Management System** - Laravel, MySQL, Bootstrap
-- **Job Portal Platform** - PHP, JavaScript, AJAX
-- **E-Commerce Solution** - Django, Python, SQLite
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -68,7 +53,26 @@
 </p>
 
 ---
+## 🚀 Featured Projects
 
+### 🤖 AI & ML Projects
+- **Multi-Agent AI System** - CrewAI, Ollama, FastAPI
+- **LLM Research Assistant** - LLaMA, FAISS, HuggingFace  
+- **Intelligent Q&A System** - RAG, Transformers, FastAPI
+- **Computer Vision Pipeline** - OpenCV, scikit-learn
+
+### 💻 Full-Stack Projects
+- **Enterprise Management System** - Laravel, MySQL, Bootstrap
+- **Job Portal Platform** - PHP, JavaScript, AJAX
+- **E-Commerce Solution** - Django, Python, SQLite
+
+### 🎯 Data Structures & Algorithms
+**DSA Using Python** [GitHub]
+- Core Data Structures & Algorithms in Python
+- Interactive Jupyter Notebooks: Linked Lists, Stacks, Queues, Arrays  
+- Searching, Sorting, and Hashing implementations
+- Clean, educational code for learning and revision
+---
 
 ## 📈 GitHub Stats
 
