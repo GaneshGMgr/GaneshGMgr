@@ -53,6 +53,19 @@
 </p>
 
 ---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=radical&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=radical&hide_border=true&langs_count=8" width="55%"/>
+</p>
+
+---
 ## 🚀 Featured Projects
 
 ### 🤖 AI & ML Projects
@@ -72,19 +85,6 @@
 - Interactive Jupyter Notebooks: Linked Lists, Stacks, Queues, Arrays  
 - Searching, Sorting, and Hashing implementations
 - Clean, educational code for learning and revision
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=radical&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=radical&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=radical&hide_border=true&langs_count=8" width="55%"/>
-</p>
-
 ---
 
 ## 📫 Connect With Me
