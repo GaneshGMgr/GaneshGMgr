@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/your-username?tab=repositories"><img src="https://img.shields.io/badge/Projects-20+-blue" alt="Projects"></a>
-  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/Stars-100+-yellow" alt="Stars"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5" alt="LinkedIn"></a>
+  <a href="https://github.com/GaneshGMgr?tab=repositories"><img src="https://img.shields.io/badge/Projects-20+-blue" alt="Projects"></a>
+  <a href="https://github.com/GaneshGMgr"><img src="https://img.shields.io/badge/Stars-100+-yellow" alt="Stars"></a>
 </p>
 
 ---
