@@ -2,10 +2,20 @@ name: Custom Workflow
 
 on:
   workflow_dispatch:
+    inputs:
+      environment:
+        description: 'Deploy environment'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+        - staging
+        - production
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - run: echo "Deploying to ${{ github.event.inputs.environment }}"
       - run: echo "This is my custom workflow"
