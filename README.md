@@ -68,22 +68,22 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI & ML Projects
-- **Multi-Agent AI System** - CrewAI, Ollama, FastAPI
-- **LLM Research Assistant** - LLaMA, FAISS, HuggingFace  
-- **Intelligent Q&A System** - RAG, Transformers, FastAPI
-- **Computer Vision Pipeline** - OpenCV, scikit-learn
+[**Agentic_AI-Portfolio_Agents_Using_CrewAI**](https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI) - CrewAI, Ollama, FastAPI • Autonomous software engineering team simulation  
+[**Agentic_AI-Deep_Web_Research**](https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research/tree/main) - LLaMA, FAISS, HuggingFace • Deep web research with multi-source querying  
+[**Unified-InfoSec-QnA-Assistant**](https://github.com/sandipkatel/Unified-InfoSec-QnA-Assistant) - RAG, Transformers, FastAPI • Hybrid vector search for security compliance  
+[**Machine_Learning-Celebraty_Face_Recognition**](https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition) - OpenCV, scikit-learn • Face recognition with 75%+ accuracy  
 
-### 💻 Full-Stack Projects
-- **Enterprise Management System** - Laravel, MySQL, Bootstrap
-- **Job Portal Platform** - PHP, JavaScript, AJAX
-- **E-Commerce Solution** - Django, Python, SQLite
+### 💻 Full-Stack Projects  
+[**Library Management System**](https://github.com/GaneshGMgr/laravel/tree/main/Library) - Laravel, MySQL, Bootstrap • CRUD operations with role-based access  
+[**Job Portal**](https://github.com/GaneshGMgr/laravel/tree/main/jobPortal) - PHP, JavaScript, AJAX • Job listing and application management  
+[**Django E-Commerce Project (In Progress)**](https://github.com/GaneshGMgr/DJango/tree/main) - Django, Python, SQLite • Shopping cart and order management  
 
-### 🎯 Data Structures & Algorithms
-**DSA Using Python** [GitHub]
-- Core Data Structures & Algorithms in Python
-- Interactive Jupyter Notebooks: Linked Lists, Stacks, Queues, Arrays  
-- Searching, Sorting, and Hashing implementations
-- Clean, educational code for learning and revision
+### 🎯 Data Structures & Algorithms  
+[**DSA Using Python**](https://github.com/GaneshGMgr/DSA_Using_Python) - Core algorithms & data structures implementations  
+• Interactive Jupyter Notebooks: Linked Lists, Stacks, Queues, Arrays  
+• Searching, Sorting, and Hashing algorithms  
+• Clean, educational code for learning and revision  
+
 ---
 
 ## 📫 Connect With Me
