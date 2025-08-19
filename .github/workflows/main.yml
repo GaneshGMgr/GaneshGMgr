@@ -1,21 +1,43 @@
-name: Custom Workflow
+name: 🚀 Deployment Pipeline
 
 on:
   workflow_dispatch:
     inputs:
       environment:
-        description: 'Deploy environment'
+        description: 'Deployment Environment'
         required: true
         default: 'staging'
         type: choice
-        options:
-        - staging
-        - production
+        options: [staging, production]
+      dry_run:
+        description: 'Dry Run Mode'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
+    environment: ${{ github.event.inputs.environment }}
+    
     steps:
-      - uses: actions/checkout@v3
-      - run: echo "Deploying to ${{ github.event.inputs.environment }}"
-      - run: echo "This is my custom workflow"
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📦 Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: 🚀 Deploy
+        if: github.event.inputs.dry_run == 'false'
+        run: |
+          echo "Deploying to ${{ github.event.inputs.environment }}"
+          echo "Deployment completed successfully!"
+
+      - name: 💬 Dry run
+        if: github.event.inputs.dry_run == 'true'
+        run: echo "Dry run completed - no changes made"
