@@ -24,27 +24,41 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-*Artificial Intelligence & Machine Learning*  
-## 🛠️ Technical Skills
 
+*Artificial Intelligence & Machine Learning* 
+## 🛠️ Technical Skills
 **Programming Languages & Libraries**  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
 **Machine Learning & AI**  
 <img src="https://img.shields.io/badge/Regression-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SVM-FF6B6B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge" />
 <img src="https://img.shields.io/badge/XGBoost-01796F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/KNN-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/K-Means-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PCA-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wavelet_Transform-483D8B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Model_Deployment-2E8B57?style=for-the-badge" />
 
 **Natural Language Processing & LLMs**  
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LlamaIndex-7B68EE?style=for-the-badge" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/RAG-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-7B68EE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Coreference_Resolution-8B4513?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Semantic_Search-20B2AA?style=for-the-badge" />
+
+**AI & Computer Vision**  
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Face_Detection-FF69B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Image_Processing-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Facial_Recognition-2F4F4F?style=for-the-badge" />
 
 **Web Development & Deployment**  
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
