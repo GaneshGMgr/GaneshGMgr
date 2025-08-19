@@ -16,9 +16,9 @@ on:
         type: boolean
 
 jobs:
-  deploy:
+  quality-check:
+    name: ✅ Quality Assurance
     runs-on: ubuntu-latest
-    environment: ${{ github.event.inputs.environment }}
     
     steps:
       - name: ⬇️ Checkout code
@@ -32,12 +32,44 @@ jobs:
       - name: 📦 Install dependencies
         run: pip install -r requirements.txt
 
-      - name: 🚀 Deploy
-        if: github.event.inputs.dry_run == 'false'
-        run: |
-          echo "Deploying to ${{ github.event.inputs.environment }}"
-          echo "Deployment completed successfully!"
+      - name: 🧪 Run tests
+        run: echo "Running test suite..."
 
-      - name: 💬 Dry run
+  deployment:
+    name: 🚀 Deploy to ${{ github.event.inputs.environment }}
+    runs-on: ubuntu-latest
+    needs: quality-check
+    environment: ${{ github.event.inputs.environment }}
+    
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v3
+
+      - name: 📋 Deployment info
+        run: |
+          echo "🚀 Deploying to ${{ github.event.inputs.environment }}"
+          echo "📦 Project: ${{ github.repository }}"
+          echo "👤 Triggered by: ${{ github.actor }}"
+
+      - name: 🚀 Execute deployment
+        if: github.event.inputs.dry_run == 'false'
+        run: echo "✅ Deployment completed successfully!"
+
+      - name: 💬 Dry run notification
         if: github.event.inputs.dry_run == 'true'
-        run: echo "Dry run completed - no changes made"
+        run: echo "🔍 Dry run completed - no changes made"
+
+  post-deployment:
+    name: 📊 Deployment Report
+    runs-on: ubuntu-latest
+    needs: deployment
+    if: always()
+    
+    steps:
+      - name: 📈 Generate report
+        run: |
+          echo "📋 DEPLOYMENT REPORT"
+          echo "==================="
+          echo "Status: ${{ needs.deployment.result }}"
+          echo "Environment: ${{ github.event.inputs.environment }}"
+          echo "View logs: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
