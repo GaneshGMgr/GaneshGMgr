@@ -29,19 +29,13 @@
 
 ### 📈 **GitHub Statistics**
 <div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshGMgr&theme=github_dark" width="90%" />
-  
   <br>
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshGMgr&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaneshGMgr&theme=github_dark" width="45%" />
-  
   <br>
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaneshGMgr&theme=github_dark" width="45%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshGMgr&theme=github_dark&utcOffset=5.75" width="45%" />
-  
 </div>
 
 ---
@@ -127,40 +121,35 @@
 
 ### 🥇 **Top AI Projects**
 <div align="center">
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Agentic AI Portfolio](https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI)** | Autonomous software engineering team simulation | CrewAI, Ollama, FastAPI | ⭐ |
-| **[Deep Web Research](https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research)** | Multi-source deep web research agent | LLaMA, FAISS, HuggingFace | ⭐ |
-| **[Face Recognition](https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition)** | Celebrity face recognition system | OpenCV, scikit-learn | ⭐ |
-
+<table>
+<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Stars</th></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI">🤖 Agentic AI Portfolio</a></td><td>Autonomous software engineering team simulation</td><td>CrewAI, Ollama, FastAPI</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research">🔍 Deep Web Research</a></td><td>Multi-source deep web research agent</td><td>LLaMA, FAISS, HuggingFace</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition</a></td><td>Celebrity face recognition system</td><td>OpenCV, scikit-learn</td><td>⭐</td></tr>
+</table>
 </div>
 
 ### 🔧 **Full-Stack Projects**
 <div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Library Management](https://github.com/GaneshGMgr/laravel/tree/main/Library)** | Complete library management system | Laravel, MySQL, Bootstrap | ✅ Live |
-| **[Job Portal](https://github.com/GaneshGMgr/laravel/tree/main/jobPortal)** | Job listing platform | PHP, JavaScript, AJAX | ✅ Live |
-| **[E-Commerce](https://github.com/GaneshGMgr/DJango/tree/main)** | Online shopping platform | Django, Python, SQLite | 🚧 In Progress |
-
+<table>
+<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/Library">📚 Library Management</a></td><td>Complete library management system</td><td>Laravel, MySQL, Bootstrap</td><td>✅ Live</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/jobPortal">💼 Job Portal</a></td><td>Job listing platform</td><td>PHP, JavaScript, AJAX</td><td>✅ Live</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/DJango/tree/main">🛒 E-Commerce</a></td><td>Online shopping platform</td><td>Django, Python, SQLite</td><td>🚧 In Progress</td></tr>
+</table>
 </div>
 
 ---
 
 ## 📌 **GitHub Trophies**
 <div align="center">
-  
   [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
 </div>
 
 ---
 
 ## 📫 **Connect With Me**
 <div align="center">
-  
   <a href="https://github.com/GaneshGMgr">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -170,43 +159,26 @@
   <a href="https://www.linkedin.com/in/ganesh-gharti-magar-4874a4271">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  
-  <!-- Icons without links (display only) -->
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  
 </div>
-
 
 ---
 
 ## 🔥 **Recent Activity**
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: <!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
-
 <div align="center">
-  
-  ### 🎯 **Current Focus**
+  <h3>🎯 Current Focus</h3>
   <img src="https://img.shields.io/badge/Agentic_AI-⚡-2E8B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMs-🤖-4B0082?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend_Development-💻-FF6B6B?style=for-the-badge" />
-  
   <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaneshGMgr&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Activity" />
-  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="70%" />
 </div>
 
 ---
 
 <div align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge" alt="Profile Views" />
-  
   <p><i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i></p>
-  
 </div>
