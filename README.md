@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Projects-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
   </a>
   <a href="https://github.com/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Stars-100+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
+    <img src="https://img.shields.io/badge/Stars-10+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
   </a>
   <a href="https://github.com/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Followers-50+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
 </p>
 
