@@ -127,24 +127,22 @@
 
 ### 🥇 **Top AI Projects**
 <div align="center">
-
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| **[Agentic AI Portfolio](https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI)** | Autonomous software engineering team simulation | CrewAI, Ollama, FastAPI | ⭐ |
-| **[Deep Web Research](https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research)** | Multi-source deep web research agent | LLaMA, FAISS, HuggingFace | ⭐ |
-| **[Face Recognition](https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition)** | Celebrity face recognition system | OpenCV, scikit-learn | ⭐ |
-
+<table>
+<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Stars</th></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI">🤖 Agentic AI Portfolio</a></td><td>Autonomous software engineering team simulation</td><td>CrewAI, Ollama, FastAPI</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research">🔍 Deep Web Research</a></td><td>Multi-source deep web research agent</td><td>LLaMA, FAISS, HuggingFace</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition</a></td><td>Celebrity face recognition system</td><td>OpenCV, scikit-learn</td><td>⭐</td></tr>
+</table>
 </div>
 
 ### 🔧 **Full-Stack Projects**
 <div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **[Library Management](https://github.com/GaneshGMgr/laravel/tree/main/Library)** | Complete library management system | Laravel, MySQL, Bootstrap | ✅ Live |
-| **[Job Portal](https://github.com/GaneshGMgr/laravel/tree/main/jobPortal)** | Job listing platform | PHP, JavaScript, AJAX | ✅ Live |
-| **[E-Commerce](https://github.com/GaneshGMgr/DJango/tree/main)** | Online shopping platform | Django, Python, SQLite | 🚧 In Progress |
-
+<table>
+<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/Library">📚 Library Management</a></td><td>Complete library management system</td><td>Laravel, MySQL, Bootstrap</td><td>✅ Live</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/jobPortal">💼 Job Portal</a></td><td>Job listing platform</td><td>PHP, JavaScript, AJAX</td><td>✅ Live</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/DJango/tree/main">🛒 E-Commerce</a></td><td>Online shopping platform</td><td>Django, Python, SQLite</td><td>🚧 In Progress</td></tr>
+</table>
 </div>
 
 ---
