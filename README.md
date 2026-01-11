@@ -68,20 +68,25 @@
 
 ---
 
-## 🏅 **GitHub Recognition**
+## 🏆 **GitHub Achievements**
+
 <div align="center">
   
-  <!-- GitHub's own contribution graph -->
-  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github chart" width="95%" />
+  ### 🎖️ **Contributions & Recognition**
+  <a href="https://github.com/GaneshGMgr">
+    <img src="https://img.shields.io/badge/Total_Contributions-1,000+-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/GaneshGMgr?tab=repositories">
+    <img src="https://img.shields.io/badge/30+_Projects-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/GaneshGMgr">
+    <img src="https://img.shields.io/badge/Active_Developer-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   
   <br><br>
   
-  <!-- Achievement badges -->
-  <div>
-    <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-0078D7?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/Open_Source-4A4A55?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-  </div>
+  ### 📊 **Contribution Graph**
+  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github contributions chart" width="95%" />
   
 </div>
 
