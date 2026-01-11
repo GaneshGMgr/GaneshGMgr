@@ -23,16 +23,6 @@
 
 ---
 
-## 🏆 **Achievements & Recognition**
-<div align="center">
-  <img src="https://img.shields.io/badge/Winner-Nepal_Hacks_2025-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner" />
-  <img src="https://img.shields.io/badge/SecurityPal-NAAMII_Powered-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="SecurityPal" />
-  <img src="https://img.shields.io/badge/Active_Contributor-100+_Commits-00BFFF?style=for-the-badge&logo=git&logoColor=white" alt="Active Contributor" />
-  <img src="https://img.shields.io/badge/Open_Source-15+_Projects-32CD32?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
-</div>
-
----
-
 ## 📊 **GitHub Analytics Dashboard**
 ### 🟩 **Commit Activity**
 <p align="center">
