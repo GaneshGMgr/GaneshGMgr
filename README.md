@@ -200,11 +200,11 @@
 ### ⚡ **AI/ML Applications**
 <div align="center">
 <table>
-<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Performance</th></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">✈️ AI Vacation Planner</a></td><td>Personalized itinerary generator with APIs</td><td>LangGraph, Streamlit, OpenWeather</td><td>✅ 90% User Satisfaction</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">📄 Research Paper Analyzer</a></td><td>Academic paper fetching & summarization</td><td>ArXiv API, NLP, Semantic Search</td><td>✅ 1000+ Papers Processed</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML</td><td>OpenCV, SVM, Random Forest</td><td>✅ 75.37% Accuracy</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">🏠 Real Estate Predictor</a></td><td>Housing price prediction model</td><td>Linear Regression, Decision Tree</td><td>✅ 84.22% Accuracy</td></tr>
+<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">✈️ AI Vacation Planner</a></td><td>Personalized itinerary generator with APIs</td><td>LangGraph, Streamlit, OpenWeather</td><td>✅ Complete</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">📄 Research Paper Analyzer</a></td><td>Academic paper fetching & summarization</td><td>ArXiv API, NLP, Semantic Search</td><td>✅ Complete</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML</td><td>OpenCV, SVM, Random Forest</td><td>✅ Complete</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">🏠 Real Estate Predictor</a></td><td>Housing price prediction model</td><td>Linear Regression, Decision Tree</td><td>✅ Complete</td></tr>
 </table>
 </div>
 
