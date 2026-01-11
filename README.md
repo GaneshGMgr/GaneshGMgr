@@ -35,6 +35,73 @@
 
 ## 📊 **GitHub Analytics Dashboard**
 
+### 📈 **GitHub Statistics**
+<div align="center">
+  
+  <!-- Most reliable GitHub stats service -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=false" width="95%" />
+  
+  <br><br>
+  
+  <!-- Side by side: Streak and Languages -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" width="48%" />
+  
+</div>
+
+### 🟩 **Commit Activity**
+<p align="center">
+  <!-- Use a simpler, more reliable activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Weekly+Commit+Activity" alt="Commit Activity Graph" width="95%" />
+</p>
+
+### 📊 **Contribution Overview**
+<div align="center">
+  
+  <!-- Contribution calendar - Most reliable -->
+  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github contributions chart" width="95%" />
+  
+  <br><br>
+  
+  <!-- Quick stats badges -->
+  <div>
+    <a href="https://github.com/GaneshGMgr">
+      <img src="https://img.shields.io/badge/Total_Commits-1,000+-2E8B57?style=for-the-badge&logo=git&logoColor=white" />
+    </a>
+    <a href="https://github.com/GaneshGMgr?tab=repositories">
+      <img src="https://img.shields.io/badge/Public_Repos-15+-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/GaneshGMgr">
+      <img src="https://img.shields.io/badge/Current_Streak-7_days-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/GaneshGMgr">
+      <img src="https://img.shields.io/badge/Longest_Streak-30_days-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+    </a>
+  </div>
+  
+</div>
+
+### 🏅 **GitHub Trophies**
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+---
+
+## 🏆 **Achievements & Recognition**
+<div align="center">
+  <img src="https://img.shields.io/badge/Winner-Nepal_Hacks_2025-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white" alt="Hackathon Winner" />
+  <img src="https://img.shields.io/badge/SecurityPal-NAAMII_Powered-4B0082?style=for-the-badge&logo=security&logoColor=white" alt="SecurityPal" />
+  <img src="https://img.shields.io/badge/Active_Contributor-100+_Commits-00BFFF?style=for-the-badge&logo=git&logoColor=white" alt="Active Contributor" />
+  <img src="https://img.shields.io/badge/Open_Source-15+_Projects-32CD32?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
+</div>
+
+---
+
+## 📊 **GitHub Analytics Dashboard**
+
 ### 🟩 **Activity Overview**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=2E8B57&line=2E8B57&point=FFFFFF&title_color=FFFFFF&custom_title=Commit+Activity+Graph" alt="Commit Activity Graph" width="95%" />
