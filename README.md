@@ -35,49 +35,34 @@
 
 ## 📊 **GitHub Analytics Dashboard**
 
-### 📈 **Real-Time Activity Metrics**
+### 📈 **GitHub Statistics**
 <div align="center">
   
-  <!-- Dynamic GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=2E8B57&fire=FF6B6B&ring=2E8B57" width="48%" />
-  
-  <br><br>
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&area_color=2E8B57&line=2E8B57&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution+Activity+Heatmap&hide_title=false" width="95%" />
-  
-  <br><br>
-  
-  <!-- Advanced Metrics -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshGMgr&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshGMgr&theme=github_dark" width="90%" />
   
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshGMgr&theme=github_dark&hide_border=true&exclude=html,css,scss,less,blade&layout=compact" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaneshGMgr&theme=github_dark&hide_border=true&exclude=html,css,scss,less,blade&layout=compact" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshGMgr&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaneshGMgr&theme=github_dark" width="45%" />
   
   <br>
   
-  <!-- Contribution Breakdown -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true&include_all_commits=true" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshGMgr&theme=github_dark&hide_border=true&utcOffset=5.75&layout=compact" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaneshGMgr&theme=github_dark" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshGMgr&theme=github_dark&utcOffset=5.75" width="45%" />
   
 </div>
 
-### 🏅 **Repository Insights**
+### 🟩 **Commit Activity**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" width="90%" />
+</p>
+
+---
+
+## 📌 **GitHub Trophies**
 <div align="center">
   
-  <!-- Top Repositories -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&theme=github_dark&hide_border=true&layout=compact&langs_count=8&exclude_repo=laravel,node_modules,assets,static,venv&card_width=400" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaneshGMgr&repo=Agentic_AI-Portfolio_Agents_Using_CrewAI&theme=github_dark&hide_border=true" width="45%" />
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaneshGMgr&repo=laravel&theme=github_dark&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GaneshGMgr&repo=Machine_Learning-Celebraty_Face_Recognition&theme=github_dark&hide_border=true" width="45%" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
@@ -238,19 +223,6 @@
 
 ---
 
-## 🏅 **GitHub Recognition & Impact**
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaneshGMgr&theme=github_dark&hide_border=true&layout=compact&langs_count=10&custom_title=Weekly+Development+Breakdown&range=last_7_days" width="95%" />
-  
-</div>
-
----
-
 ## 📫 **Connect & Collaborate**
 <div align="center">
   
@@ -270,69 +242,24 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   
+</div>
+
+---
+
+## 🔥 **Current Focus**
+
+<div align="center">
+  
+  ### 🎯 **Primary Focus Areas**
+  <img src="https://img.shields.io/badge/LLMs-🤖-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-⚡-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-🧠-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-👁️-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Application%2FAPI_Development-🌐-32CD32?style=for-the-badge" />
+  
   <br><br>
   
-  <a href="https://github.com/sponsors/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
-  </a>
-  <a href="https://ko-fi.com/ganeshgmgr">
-    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://www.buymeacoffee.com/ganeshgmgr">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-  
-</div>
-
----
-
-## 🔥 **Current Focus & Roadmap**
-
-### 🎯 **Primary Focus Areas 2024-2025**
-<div align="center">
-  <img src="https://img.shields.io/badge/Agentic_AI_Systems-🤖-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-🧠-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Production_MLOps-🚀-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scalable_Web_Apps-🌐-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_Source_Contributions-❤️-32CD32?style=for-the-badge" />
-</div>
-
-### 📊 **Monthly Development Goals**
-<div align="center">
-  <table>
-    <tr>
-      <td><strong>AI Research</strong></td>
-      <td>📈 Improving Agentic AI Systems</td>
-      <td>🔄 In Progress</td>
-    </tr>
-    <tr>
-      <td><strong>MCP Integration</strong></td>
-      <td>🔧 Implementing Model Context Protocol</td>
-      <td>🚀 Starting Soon</td>
-    </tr>
-    <tr>
-      <td><strong>Open Source</strong></td>
-      <td>🌟 Contributing to 5+ Projects</td>
-      <td>✅ Ongoing</td>
-    </tr>
-    <tr>
-      <td><strong>Web Development</strong></td>
-      <td>🌐 Launching 2 New Projects</td>
-      <td>📅 Q1 2025</td>
-    </tr>
-  </table>
-</div>
-
-### 🔄 **Live GitHub Activity**
-<div align="center">
-  
-  <!-- Recent Activity -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&custom_title=This+Month%27s+Activity&hide=prs,issues" width="95%" />
-  
-  <br>
-  
-  <!-- Contribution Calendar -->
-  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github chart" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaneshGMgr&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Activity" />
   
 </div>
 
@@ -340,18 +267,12 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS&pattern=circuit-board" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <br><br>
   
   <p><i>🚀 "Building the future, one intelligent system at a time."</i></p>
   
   <sub>📅 Profile Dynamically Updated | 🎯 Last Sync: Today | 🔄 Auto-refreshes Daily</sub>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Made_with-❤️-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered_by-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-MIT_License-32CD32?style=for-the-badge" />
   
 </div>
