@@ -110,6 +110,8 @@
   <img src="https://img.shields.io/badge/Active_Contributor-100+_Commits-00BFFF?style=for-the-badge&logo=git&logoColor=white" alt="Active Contributor" />
   <img src="https://img.shields.io/badge/Open_Source-15+_Projects-32CD32?style=for-the-badge&logo=opensource&logoColor=white" alt="Open Source" />
 </div>
+
+
 ---
 
 ## 🔧 **Technical Stack**
