@@ -34,20 +34,18 @@
 ---
 
 ## 📊 **GitHub Analytics Dashboard**
-
-## 🏆 **GitHub Trophies**
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 ### 🟩 **Commit Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" width="90%" />
 </p>
 
 ---
+## 🏆 **GitHub Trophies**
+<div align="center">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
 
 ## 🏆 **GitHub Achievements**
 
