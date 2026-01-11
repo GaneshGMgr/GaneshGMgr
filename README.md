@@ -43,23 +43,38 @@
   
   <br>
   
-  <!-- Top Languages - More reliable -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="45%" />
+  <!-- Row 1: Top Languages & Streak Stats -->
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
   
   <br>
   
-  <!-- Contribution Stats -->
-  <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true" width="45%" />
-  
-  <!-- Simple productivity badge -->
-  <a href="https://github.com/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Productivity-100%25-2E8B57?style=for-the-badge&logo=github&logoColor=white" width="45%" />
-  </a>
+  <!-- Row 2: Contribution Stats & Productivity -->
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true" width="95%" />
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
+          <a href="https://github.com/GaneshGMgr">
+            <img src="https://img.shields.io/badge/Productivity-100%25-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
   
 </div>
+
 ### 🟩 **Commit Activity**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" width="90%" />
