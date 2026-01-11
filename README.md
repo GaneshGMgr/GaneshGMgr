@@ -124,7 +124,7 @@
 <tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML</td><td>OpenCV, SVM, Random Forest</td><td>✅ Complete</td></tr>
 <tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">🏠 Real Estate Predictor</a></td><td>Housing price prediction model</td><td>Linear Regression, Decision Tree</td><td>✅ Complete</td></tr>
 </table>
-</div>>
+</div>
 
 ### 🌐 **Production Web Applications**
 <div align="center">
