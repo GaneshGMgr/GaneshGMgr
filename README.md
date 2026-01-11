@@ -51,10 +51,8 @@
 
 ### 🟩 **Commit Activity**
 <p align="center">
-  <!-- Use a simpler, more reliable activity graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Weekly+Commit+Activity" alt="Commit Activity Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" width="90%" />
 </p>
-
 ### 📊 **Contribution Overview**
 <div align="center">
   
