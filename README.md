@@ -68,10 +68,20 @@
 
 ---
 
-## 📌 **GitHub Trophies**
+## 🏅 **GitHub Recognition**
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <!-- GitHub's own contribution graph -->
+  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github chart" width="95%" />
+  
+  <br><br>
+  
+  <!-- Achievement badges -->
+  <div>
+    <img src="https://img.shields.io/badge/Arctic_Code_Vault_Contributor-0078D7?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open_Source-4A4A55?style=flat-square&logo=opensourceinitiative&logoColor=white" />
+  </div>
   
 </div>
 
