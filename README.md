@@ -129,9 +129,13 @@
 <div align="center">
 <table>
 <tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Stars</th></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI">🤖 Agentic AI Portfolio</a></td><td>Autonomous software engineering team simulation</td><td>CrewAI, Ollama, FastAPI</td><td>⭐</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research">🔍 Deep Web Research</a></td><td>Multi-source deep web research agent</td><td>LLaMA, FAISS, HuggingFace</td><td>⭐</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition</a></td><td>Celebrity face recognition system</td><td>OpenCV, scikit-learn</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/sandipkatel/Unified-InfoSec-QnA-Assistant">🏆 Unified InfoSec QnA Assistant</a></td><td>Winner of Nepal Hacks 2025 - Security compliance query assistant</td><td>LLaMA 3.2, FAISS, HuggingFace, FastAPI</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI">🤖 SoftwareEngineers Crew</a></td><td>Autonomous multi-agent software engineering system</td><td>CrewAI, Ollama LLMs, FastAPI, Streamlit</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research">🔍 Deep Web Research Agent</a></td><td>Multi-source autonomous research agent</td><td>Ollama LLM, DuckDuckGo API, Scholar APIs</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">✈️ Vacation Planner</a></td><td>Personalized itinerary generator with weather integration</td><td>LangGraph, Streamlit, OpenWeather, Google Places</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">📄 Research Paper Analyzer</a></td><td>AI tool to fetch and summarize academic papers</td><td>Python, ArXiv API, Google Scholar, NLP</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML classifiers</td><td>OpenCV, scikit-learn, SVM, Random Forest</td><td>⭐</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">🏠 Real Estate Price Prediction</a></td><td>Housing price prediction model</td><td>Python, Linear Regression, Decision Tree</td><td>⭐</td></tr>
 </table>
 </div>
 
