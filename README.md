@@ -139,12 +139,12 @@
 <div align="center">
 <table>
 <tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/tenzingArt">🖼️ Tenzing Art Gallery</a></td><td>Art gallery website</td><td>Laravel, MySQL, Tailwind</td><td>✅ Live (<a href="https://tenzingartgallery.com/">tenzingartgallery.com</a>)</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/sumanDriving">🚗 Suman Driving Center</a></td><td>Driving school management system</td><td>Laravel, MySQL, Bootstrap</td><td>✅ Live (<a href="https://sumandrivingcenter.com/">sumandrivingcenter.com</a>)</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/new_nepalmegacollege">🏫 Nepal Mega College</a></td><td>Educational institution website</td><td>Laravel, MySQL, Bootstrap</td><td>✅ Live (<a href="https://www.nepalmegacollege.edu.np/">nepalmegacollege.edu.np</a>)</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/engineersSewa">🏗️ Engineers Sewa</a></td><td>Engineering service platform</td><td>Laravel, MySQL, Bootstrap</td><td>✅ Live (<a href="https://engineerssewa.walkershive.com.np/">engineerssewa.walkershive.com.np</a>)</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/nischals_blog">✍️ Nischal's Blog</a></td><td>Personal blogging platform</td><td>Laravel, MySQL, Tailwind</td><td>🔧 Development</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy">🏔️ Kanchanjunga Consultancy</a></td><td>Consultancy services website</td><td>Laravel, MySQL, Bootstrap</td><td>🔧 Development</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/tenzingArt">🖼️ Tenzing Art Gallery</a></td><td>Art gallery website</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>✅ Live (<a href="https://tenzingartgallery.com/">tenzingartgallery.com</a>)</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/sumanDriving">🚗 Suman Driving Center</a></td><td>Driving school management system</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>✅ Live (<a href="https://sumandrivingcenter.com/">sumandrivingcenter.com</a>)</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/new_nepalmegacollege">🏫 Nepal Mega College</a></td><td>Educational institution website</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>✅ Live (<a href="https://www.nepalmegacollege.edu.np/">nepalmegacollege.edu.np</a>)</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/engineersSewa">🏗️ Engineers Sewa</a></td><td>Engineering service platform</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>✅ Live (<a href="https://engineerssewa.walkershive.com.np/">engineerssewa.walkershive.com.np</a>)</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/nischals_blog">✍️ Nischal's Blog</a></td><td>Personal blogging platform</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>🔧 Development</td></tr>
+<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy">🏔️ Kanchanjunga Consultancy</a></td><td>Consultancy services website</td><td>Laravel, Filament, MySQL, DBngin, Navicat</td><td>🔧 Development</td></tr>
 </table>
 </div>
 
