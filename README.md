@@ -44,34 +44,22 @@
   <br>
   
   <!-- Row 1: Top Languages & Streak Stats -->
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="48%" />
+  </div>
   
-  <br>
-  
-  <!-- Row 2: Contribution Stats & Productivity -->
-  <table>
-    <tr>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true" width="95%" />
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <div style="height: 180px; display: flex; align-items: center; justify-content: center;">
-          <a href="https://github.com/GaneshGMgr">
-            <img src="https://img.shields.io/badge/Productivity-100%25-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <!-- Row 2: Contribution Stats & Productivity (wrapped in containers) -->
+  <div style="display: flex; justify-content: center; gap: 10px; align-items: stretch;">
+    <div style="width: 48%;">
+      <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true" width="100%" style="height: 180px; object-fit: contain;" />
+    </div>
+    <div style="width: 48%; display: flex; align-items: center; justify-content: center; background: #0d1117; border-radius: 10px; padding: 20px;">
+      <a href="https://github.com/GaneshGMgr">
+        <img src="https://img.shields.io/badge/Productivity-100%25-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </div>
+  </div>
   
 </div>
 
