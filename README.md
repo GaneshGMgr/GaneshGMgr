@@ -67,12 +67,11 @@
   </div>
   
 </div>
-
 ### 📊 **Contribution Overview**
 <div align="center">
   
   <!-- Contribution calendar - Most reliable -->
-  <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github contributions chart" width="95%" />
+  <!-- <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github contributions chart" width="95%" /> -->
   
   <br><br>
   
