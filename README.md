@@ -74,7 +74,7 @@
   <!-- Contribution calendar - Most reliable -->
   <!-- <img src="https://ghchart.rshah.org/GaneshGMgr" alt="GaneshGMgr's Github contributions chart" width="95%" /> -->
   
-  <br><br>
+   <!--  <br><br> -->
   
   <!-- Quick stats badges -->
   <div>
