@@ -38,17 +38,26 @@
 ### 📈 **GitHub Statistics**
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaneshGMgr&theme=github_dark" width="90%" />
+  <!-- More reliable GitHub stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="90%" />
   
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaneshGMgr&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaneshGMgr&theme=github_dark" width="45%" />
+  <!-- Top Languages - More reliable -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshGMgr&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="45%" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshGMgr&theme=github-dark&hide_border=true" width="45%" />
   
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaneshGMgr&theme=github_dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaneshGMgr&theme=github_dark&utcOffset=5.75" width="45%" />
+  <!-- Contribution Stats -->
+  <img src="https://github-contribution-stats.vercel.app/api/?username=GaneshGMgr&theme=github_dark&hide_border=true" width="45%" />
+  
+  <!-- Simple productivity badge -->
+  <a href="https://github.com/GaneshGMgr">
+    <img src="https://img.shields.io/badge/Productivity-100%25-2E8B57?style=for-the-badge&logo=github&logoColor=white" width="45%" />
+  </a>
   
 </div>
 
@@ -259,7 +268,8 @@
   
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GaneshGMgr&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="Weekly Coding Activity" />
+  <!-- Alternative coding stats without authentication issues -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" width="95%" />
   
 </div>
 
