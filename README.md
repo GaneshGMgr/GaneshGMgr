@@ -53,7 +53,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshGMgr&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" width="90%" />
 </p>
+
 ### 📊 **Contribution Overview**
+### 🟩 **Commit Activity**
 <div align="center">
   
   <!-- Contribution calendar - Most reliable -->
