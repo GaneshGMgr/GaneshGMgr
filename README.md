@@ -134,10 +134,25 @@
 <tr><td><a href="https://sumandrivingcenter.com/">🚗 Suman Driving Center</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>📈 Growing</td></tr>
 <tr><td><a href="https://www.nepalmegacollege.edu.np/">🏫 Nepal Mega College</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🎓 Educational Portal</td></tr>
 <tr><td><a href="https://engineerssewa.walkershive.com.np/">🏗️ Engineers Sewa</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🔧 Service Platform</td></tr>
+<tr><td><a href="https://eaglestravel.walkershive.com.np/">🦅 Eagles Travel</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>🌄 Tourism & Trekking</td></tr>
 <tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/nischals_blog">✍️ Nischal's Blog</a></td><td>🔄 Development</td><td>Laravel, Filament, MySQL, Tailwind</td><td>⚡ Coming Soon</td></tr>
 <tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy">🏔️ Kanchanjunga Consultancy</a></td><td>🔄 Development</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>⚡ Coming Soon</td></tr>
 </table>
 </div>
+
+
+### 🌐 Production Web Applications
+
+| Project | Live URL | Tech Stack | Traffic |
+|---------|----------|------------|---------|
+| [🖼️ Tenzing Art Gallery](https://tenzingartgallery.com/) | ✅ Live | Laravel, Filament, MySQL, Tailwind | 🚀 High Traffic |
+| [🚗 Suman Driving Center](https://sumandrivingcenter.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 📈 Growing |
+| [🏫 Nepal Mega College](https://www.nepalmegacollege.edu.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🎓 Educational Portal |
+| [🏗️ Engineers Sewa](https://engineerssewa.walkershive.com.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🔧 Service Platform |
+| [🦅 Eagles Travel](https://eaglestravel.walkershive.com.np/) | ✅ Live | Laravel, Filament, MySQL, Tailwind | 🌄 Tourism & Trekking |
+| [✍️ Nischal's Blog](https://github.com/GaneshGMgr/laravel/tree/main/nischals_blog) | 🔄 Development | Laravel, Filament, MySQL, Tailwind | ⚡ Coming Soon |
+| [🏔️ Kanchanjunga Consultancy](https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy) | 🔄 Development | Laravel, Filament, MySQL, Bootstrap | ⚡ Coming Soon |
+
 
 ---
 
