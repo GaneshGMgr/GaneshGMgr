@@ -139,6 +139,7 @@
 <tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy">🏔️ Kanchanjunga Consultancy</a></td><td>🔄 Development</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>⚡ Coming Soon</td></tr>
 </table>
 </div>
+
 ---
 
 ## 🔧 **Technical Stack**
