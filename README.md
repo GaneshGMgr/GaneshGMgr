@@ -136,7 +136,7 @@
 <tr><td><a href="https://engineerssewa.walkershive.com.np/">🏗️ Engineers Sewa</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🔧 Service Platform</td></tr>
 <tr><td><a href="https://eaglestravel.walkershive.com.np/">🦅 Eagles Travel</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>🌄 Tourism & Trekking</td></tr>
 <tr><td><a href="https://pslimboo.walkershive.com.np/">✍️ Nischal's Blog</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>📝 Nishchal's Blog Insights & Stories</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/laravel/tree/main/kanchanjanga_consultancy">🏔️ Kanchanjunga Consultancy</a></td><td>🔄 Development</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>⚡ Coming Soon</td></tr>
+<tr><td><a href="https://kanchanjanga.com.np/">🏔️ Kanchanjunga Consultancy</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🏢 Kanchanjanga Consultancy</td></tr>
 </table>
 </div>
 
