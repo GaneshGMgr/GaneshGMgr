@@ -2,22 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ganesh+Gharti+Magar;AI%2FML+Engineer+%26+Developer;Full+Stack+Software+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/GaneshGMgr?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
-    <br><sub>👆 Click me</sub>
-  </a>
-  &nbsp; <!-- small spacing -->
-  <a href="https://github.com/GaneshGMgr" target="_blank">
-    <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-    <br><sub>👆 Click me</sub>
-  </a>
-  &nbsp;
-  <a href="https://github.com/GaneshGMgr?tab=following" target="_blank">
-    <img src="https://img.shields.io/badge/Following-10+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
-    <br><sub>👆 Click me</sub>
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/GaneshGMgr?tab=repositories"> <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /> </a> <!-- <a href="https://github.com/GaneshGMgr?tab=stars"> <img src="https://img.shields.io/badge/Stars-2+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" /> </a> --> <a href="https://github.com/GaneshGMgr"> <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" /> </a> <a href="https://github.com/GaneshGMgr?tab=following"> <img src="https://img.shields.io/badge/Following-10+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Following" /> </a> </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=header&text=AI%2FML+Developer+Portfolio&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Header Line 1" />
