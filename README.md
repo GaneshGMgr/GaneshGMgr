@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ganesh+Gharti+Magar;AI%2FML+Engineer+%26+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Ganesh+Gharti+Magar;AI%2FML+Engineer+%26+Developer;Full+Stack+Software+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header&text=AI%2FML+Developer+Portfolio&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header&text=AI%2FML+Developer%0AFull+Stack+Software+Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
 </div>
 
 ---
