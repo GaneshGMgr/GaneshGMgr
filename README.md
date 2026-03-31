@@ -4,16 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/GaneshGMgr?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white&label=Click+Me" alt="Repositories" />
-</a>
-  <!-- <a href="https://github.com/GaneshGMgr?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-2+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
-  </a> -->
-  <a href="https://github.com/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <br><sub>👆 Click me</sub>
   </a>
-  <a href="https://github.com/GaneshGMgr?tab=following">
+  &nbsp; <!-- small spacing -->
+  <a href="https://github.com/GaneshGMgr" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <br><sub>👆 Click me</sub>
+  </a>
+  &nbsp;
+  <a href="https://github.com/GaneshGMgr?tab=following" target="_blank">
     <img src="https://img.shields.io/badge/Following-10+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+    <br><sub>👆 Click me</sub>
   </a>
 </p>
 
