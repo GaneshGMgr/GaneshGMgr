@@ -3,8 +3,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/GaneshGMgr?tab=repositories">
+  <a href="https://github.com/GaneshGMgr?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <br>
+    <small>👆 Click me to see all repositories</small>
   </a>
   <!-- <a href="https://github.com/GaneshGMgr?tab=stars">
     <img src="https://img.shields.io/badge/Stars-2+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
