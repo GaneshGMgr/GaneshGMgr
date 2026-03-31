@@ -18,7 +18,8 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=120&section=header&text=AI%2FML+Developer%0AFull+Stack+Software+Developer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=100&section=header&text=AI%2FML+Developer+Portfolio&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Header Line 1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=100&section=header&text=Full+Stack+Software+Developer&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" alt="Header Line 2" />
 </div>
 
 ---
