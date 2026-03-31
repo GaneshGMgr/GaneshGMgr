@@ -4,16 +4,16 @@
 
 <p align="center">
   <a href="https://github.com/GaneshGMgr?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-30+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-20+-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
-  <a href="https://github.com/GaneshGMgr?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-50+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
-  </a>
+  <!-- <a href="https://github.com/GaneshGMgr?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-2+-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Stars" />
+  </a> -->
   <a href="https://github.com/GaneshGMgr">
-    <img src="https://img.shields.io/badge/Followers-25+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://img.shields.io/badge/Followers-5+-1DA1F2?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
   </a>
   <a href="https://github.com/GaneshGMgr?tab=following">
-    <img src="https://img.shields.io/badge/Following-40+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
+    <img src="https://img.shields.io/badge/Following-10+-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Following" />
   </a>
 </p>
 
