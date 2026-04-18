@@ -101,31 +101,117 @@
 </table>
 </div>
 
-### ⚡ **AI/ML Applications**
+### ⚡ AI/ML Applications
+
 <div align="center">
-<table>
-<tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
+
+<table border="1" cellspacing="0" cellpadding="8">
+
+<thead>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Tech Stack</th>
+<th>Status</th>
+</tr>
+</thead>
+
+<tbody>
+
+<tr>
 <td>
-<a href="https://github.com/GaneshGMgr/Customer_Support_Agent">🤖 Customer Support Agent</a>
+<a href="https://github.com/GaneshGMgr/Customer_Support_Agent">
+🤖 Customer Support Agent
+</a>
 </td>
-<td>AI-based workflow system for email classification, retrieval, and response generation with automation support</td>
-<td>Python, FastAPI, LLM APIs, Workflow Automation</td>
+<td>
+AI-based workflow system for email classification, retrieval, and automated response generation with scheduling support.
+</td>
+<td>
+Python, FastAPI, LLM APIs, Workflow Automation
+</td>
 <td>⏳ In Progress</td>
 </tr>
 
 <tr>
 <td>
-<a href="https://github.com/GaneshGMgr/Document_Intelligence_Assistant_RAG">📄 Document Intelligence Assistant (RAG)</a>
+<a href="https://github.com/GaneshGMgr/Document_Intelligence_Assistant_RAG">
+📄 Document Intelligence Assistant (RAG)
+</a>
 </td>
-<td>RAG-based AI system for document Q&A with ingestion pipeline, embeddings, and vector search</td>
-<td>FastAPI, Weaviate, LLMs, Vector DB, Python</td>
+<td>
+RAG-based AI system for document Q&A including ingestion pipeline, embeddings, and vector database search.
+</td>
+<td>
+FastAPI, Weaviate, Vector DB, LLMs, Python
+</td>
 <td>⏳ In Progress</td>
 </tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">✈️ AI Vacation Planner</a></td><td>Personalized itinerary generator with APIs</td><td>LangGraph, Streamlit, OpenWeather</td><td>✅ Complete</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">📄 Research Paper Analyzer</a></td><td>Academic paper fetching & summarization</td><td>ArXiv API, NLP, Semantic Search</td><td>✅ Complete</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML</td><td>OpenCV, SVM, Random Forest</td><td>✅ Complete</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">🏠 Real Estate Predictor</a></td><td>Housing price prediction model</td><td>Linear Regression, Decision Tree</td><td>✅ Complete</td></tr>
+
+<tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">
+✈️ AI Vacation Planner
+</a>
+</td>
+<td>
+Personalized travel itinerary generator using external APIs and weather integration.
+</td>
+<td>
+LangGraph, Streamlit, OpenWeather API
+</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">
+📄 Research Paper Analyzer
+</a>
+</td>
+<td>
+System for fetching, analyzing, and summarizing academic research papers using NLP techniques.
+</td>
+<td>
+ArXiv API, NLP, Semantic Search
+</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">
+👁️ Face Recognition System
+</a>
+</td>
+<td>
+Machine learning system for celebrity face recognition and classification.
+</td>
+<td>
+OpenCV, SVM, Random Forest
+</td>
+<td>✅ Completed</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Real_Estate_Price_Prediction">
+🏠 Real Estate Predictor
+</a>
+</td>
+<td>
+Machine learning model for predicting housing prices based on dataset features.
+</td>
+<td>
+Linear Regression, Decision Tree
+</td>
+<td>✅ Completed</td>
+</tr>
+
+</tbody>
+
 </table>
+
 </div>
 
 ### 🌐 **Production Web Applications**
