@@ -105,8 +105,22 @@
 <div align="center">
 <table>
 <tr><th>Project</th><th>Description</th><th>Tech Stack</th><th>Status</th></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Portfolio_Agents_Using_CrewAI">🤖 SoftwareEngineers Crew</a></td><td>Autonomous multi-agent software engineering system</td><td>CrewAI, Ollama, FastAPI, Streamlit</td><td>✅ Complete</td></tr>
-<tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Deep_Web_Research">🔬 Deep Web Research Agent</a></td><td>Multi-source autonomous research agent</td><td>Ollama, Scholar APIs, DuckDuckGo</td><td>✅ Complete</td></tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Customer_Support_Agent">🤖 Customer Support Agent</a>
+</td>
+<td>AI-based workflow system for email classification, retrieval, and response generation with automation support</td>
+<td>Python, FastAPI, LLM APIs, Workflow Automation</td>
+<td>⏳ In Progress</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/GaneshGMgr/Document_Intelligence_Assistant_RAG">📄 Document Intelligence Assistant (RAG)</a>
+</td>
+<td>RAG-based AI system for document Q&A with ingestion pipeline, embeddings, and vector search</td>
+<td>FastAPI, Weaviate, LLMs, Vector DB, Python</td>
+<td>⏳ In Progress</td>
+</tr>
 <tr><td><a href="https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner">✈️ AI Vacation Planner</a></td><td>Personalized itinerary generator with APIs</td><td>LangGraph, Streamlit, OpenWeather</td><td>✅ Complete</td></tr>
 <tr><td><a href="https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization">📄 Research Paper Analyzer</a></td><td>Academic paper fetching & summarization</td><td>ArXiv API, NLP, Semantic Search</td><td>✅ Complete</td></tr>
 <tr><td><a href="https://github.com/GaneshGMgr/Machine_Learning-Celebraty_Face_Recognition">👁️ Face Recognition System</a></td><td>Celebrity face recognition with ML</td><td>OpenCV, SVM, Random Forest</td><td>✅ Complete</td></tr>
