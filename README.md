@@ -119,7 +119,7 @@
 
 <tr>
 <td>
-<a href="https://github.com/GaneshGMgr/Customer_Support_Agent">
+<a href="https://github.com/GaneshGMgr/Custmor_Support_Agent">
 🤖 Customer Support Agent
 </a>
 </td>
