@@ -83,11 +83,11 @@
 </div>
 
 ### 🏅 **GitHub Trophies**
-<div align="center">
+<!-- <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=GaneshGMgr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-</div>
+</div> -->
 
 ---
 
