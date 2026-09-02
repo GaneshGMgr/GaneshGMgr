@@ -214,16 +214,60 @@ Linear Regression, Decision Tree
 </div>
 
 ### 🌐 **Production Web Applications**
+
 <div align="center">
 <table>
 <tr><th>Project</th><th>Live URL</th><th>Tech Stack</th><th>Traffic</th></tr>
-<tr><td><a href="https://tenzingartgallery.com/">🖼️ Tenzing Art Gallery</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>🚀 High Traffic</td></tr>
-<tr><td><a href="https://sumandrivingcenter.com/">🚗 Suman Driving Center</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>📈 Growing</td></tr>
-<tr><td><a href="https://www.nepalmegacollege.edu.np/">🏫 Nepal Mega College</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🎓 Educational Portal</td></tr>
-<tr><td><a href="https://engineerssewa.walkershive.com.np/">🏗️ Engineers Sewa</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🔧 Service Platform</td></tr>
-<tr><td><a href="https://eaglestravel.walkershive.com.np/">🦅 Eagles Travel</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>🌄 Tourism & Trekking</td></tr>
-<tr><td><a href="https://pslimboo.walkershive.com.np/">✍️ Nischal's Blog</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Tailwind</td><td>📝 Nishchal's Blog Insights & Stories</td></tr>
-<tr><td><a href="https://kanchanjanga.com.np/">🏔️ Kanchanjunga Consultancy</a></td><td>✅ Live</td><td>Laravel, Filament, MySQL, Bootstrap</td><td>🏢 Kanchanjanga Consultancy</td></tr>
+
+<tr>
+<td><a href="https://lariox.edu.np/">🎓 Lariox Education Consultancy</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌍 Education Consultancy</td>
+</tr>
+
+<tr>
+<td><a href="https://jobtrack.com.np/">💼 JobTrack Recruitment</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌐 Recruitment Platform</td>
+</tr>
+
+<tr>
+<td><a href="https://tenzingartgallery.com/">🖼️ Tenzing Art Gallery</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Tailwind</td>
+<td>🚀 High Traffic</td>
+</tr>
+
+<tr>
+<td><a href="https://sumandrivingcenter.com/">🚗 Suman Driving Center</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>📈 Growing</td>
+</tr>
+
+<tr>
+<td><a href="https://www.nepalmegacollege.edu.np/">🏫 Nepal Mega College</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🎓 Educational Portal</td>
+</tr>
+
+<tr>
+<td><a href="https://kanchanjanga.com.np/">🏔️ Kanchanjunga Consultancy</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌍 Education Consultancy</td>
+</tr>
+
+<tr>
+<td><a href="https://engineerssewa.com/">🏗️ Engineers Sewa</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🔧 Service Platform</td>
+</tr>
+
 </table>
 </div>
 
