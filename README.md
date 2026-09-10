@@ -72,24 +72,119 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 
 ---
 
-## 🔧 Technical Stack
+## 🔧 **Technical Stack**
+
 *Listed only where I have a project to back it up.*
 
-**Languages:** Python, PHP, JavaScript, SQL
+### 🤖 **AI & Machine Learning**
 
-**Machine Learning:** scikit-learn, Pandas, NumPy, OpenCV, Model Evaluation (GridSearchCV, Cross-Validation)
+<table>
+  <tr>
+    <td><strong>Core ML</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>LLMs & Generative AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/AutoGen-1E90FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Agentic AI & MCP</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangGraph-7B68EE?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/AutoGen-1E90FF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/MCP_(FastMCP)-8A2BE2?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Vector Search</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/FAISS-00C853?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-**Generative AI / LLM:** LangChain, LangGraph, AutoGen, Model Context Protocol (MCP) via FastMCP, Hugging Face (QLoRA, DPO), OpenAI API, Groq API, Ollama
+### 🌐 **Full-Stack Development**
 
-**Vector Search:** ChromaDB, FAISS
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Filament-FF5722?style=for-the-badge&logo=filament&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-**Backend:** Laravel (MVC), Filament CMS, FastAPI, REST API Development, SQLAlchemy
+### ⚡ **Development & DevOps Tools**
 
-**Databases:** MySQL, Eloquent ORM
+<table>
+  <tr>
+    <td><strong>Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Development</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, AJAX, Blade Templating
-
-**Tools:** Git, GitHub, Docker, Postman, VS Code, Jupyter, Redis, Celery
 
 ---
 
@@ -111,36 +206,4 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
----
-## 🔥 **Current Focus**
-
-<div align="center">
-  
-  ### 🎯 **Primary Focus Areas**
-  <img src="https://img.shields.io/badge/LLMs-🤖-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic_AI-⚡-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-🧠-1E90FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-👁️-FF4500?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Application%2FAPI_Development-🌐-32CD32?style=for-the-badge" />
-  
-  <br><br>
-  
-  <!-- Alternative coding stats without authentication issues -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" width="95%" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  
-  <br><br>
-  
-  <p><i>🚀 "Building the future, one intelligent system at a time."</i></p>
-  
-  <sub>📅 Profile Dynamically Updated | 🎯 Last Sync: Today | 🔄 Auto-refreshes Daily</sub>
-  
 </div>
