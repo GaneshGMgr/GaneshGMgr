@@ -40,13 +40,13 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| [RAG Knowledge Base Platform](https://github.com/GaneshGMgr/chat_with_Doc) | Production-style RAG platform: document ingestion, chunking, embedding, and retrieval; 24+ REST endpoints, async processing via Celery/Redis | Python, FastAPI, OpenAI, Groq, Ollama, ChromaDB, Redis, Celery | ✅ Completed |
+| [RAG Knowledge Base Platform](https://github.com/GaneshGMgr/chat_with_Doc) | Production-style RAG platform: document ingestion, chunking, embedding, and retrieval; 24+ REST endpoints, async processing via Celery/Redis | Python, FastAPI, OpenAI, Groq, Ollama, ChromaDB, Redis, Celery | ⏳ In Progress |
 | [Agentic AI Customer Support System](https://github.com/GaneshGMgr/Custmor_Support_Agent) | Multi-agent workflow for automated email classification, retrieval-based responses, and human-in-the-loop review | LangGraph, FastAPI, FAISS, SQLAlchemy, IMAP/SMTP | ⏳ In Progress |
+| [Document Intelligence Assistant (RAG)](https://github.com/GaneshGMgr/Document_Intelligence_Assistant_RAG) | RAG-based document Q&A system: ingestion pipeline, embeddings, vector search | FastAPI, Weaviate, Python | ⏳ In Progress |
 | [AI Vacation Planner](https://github.com/GaneshGMgr/Agentic_AI-Vacation_Planner) | Multi-agent travel planner: real-time weather, places, currency conversion, and day-wise itinerary generation | LangGraph, FastAPI, Streamlit, OpenWeatherMap API, Google Places/Foursquare API, Groq | ✅ Completed |
 | [Research Paper Analyzer](https://github.com/GaneshGMgr/Gen_AI/tree/main/Autogen_Research_Agent/paper_analysis_%26_summarization) | Fetches papers from ArXiv/Google Scholar, summarizes with an LLM agent, and analyzes pros/cons of each paper | AutoGen, Streamlit, Groq, Ollama | ✅ Completed |
 | [LLM Fine-Tuning (Qwen 2.5 7B)](https://github.com/GaneshGMgr/llm-json-structured-finetuning) | Fine-tuned an LLM for structured JSON extraction from unstructured text | Hugging Face, QLoRA, DPO | ✅ Completed |
 | [Ollama + MCP Chatbot](https://github.com/GaneshGMgr/chatbot_with_mcp_server) | Practice project: tool-calling chatbot using FastMCP servers (math tools, expense tracker) over local/remote MCP transports, with a Streamlit UI | Python, Ollama, FastMCP, LangChain MCP Adapters, Streamlit | 🧪 Learning Project |
-| [Document Intelligence Assistant (RAG)](https://github.com/GaneshGMgr/Document_Intelligence_Assistant_RAG) | RAG-based document Q&A system: ingestion pipeline, embeddings, vector search | FastAPI, Weaviate, Python | ⏳ In Progress |
 
 ### 📈 Machine Learning
 
