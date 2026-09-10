@@ -59,15 +59,61 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 ### 🌐 Production Web Applications
 *Built during a backend development internship at Walkers Hive Pvt. Ltd.*
 
-| Project | Live | Tech Stack |
-|---|---|---|
-| [Lariox Education Consultancy](https://lariox.edu.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
-| [JobTrack — Overseas Employment Agency](https://jobtrack.com.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
-| [Nepal Mega College](https://www.nepalmegacollege.edu.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
-| [Kanchanjunga Consultancy](https://kanchanjanga.com.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
-| [Engineers Sewa](https://engineerssewa.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
-| [Tenzing Art Gallery](https://tenzingartgallery.com/) | ✅ Live | Laravel, Filament, MySQL, Tailwind CSS |
-| [Suman Driving Center](https://sumandrivingcenter.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap |
+<div align="center">
+<table>
+<tr><th>Project</th><th>Live URL</th><th>Tech Stack</th><th>Traffic</th></tr>
+
+<tr>
+<td><a href="https://lariox.edu.np/">🎓 Lariox Education Consultancy</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌍 Education Consultancy</td>
+</tr>
+
+<tr>
+<td><a href="https://jobtrack.com.np/">💼 JobTrack Recruitment</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌐 Recruitment Platform</td>
+</tr>
+
+<tr>
+<td><a href="https://tenzingartgallery.com/">🖼️ Tenzing Art Gallery</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Tailwind</td>
+<td>🚀 High Traffic</td>
+</tr>
+
+<tr>
+<td><a href="https://sumandrivingcenter.com/">🚗 Suman Driving Center</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>📈 Growing</td>
+</tr>
+
+<tr>
+<td><a href="https://www.nepalmegacollege.edu.np/">🏫 Nepal Mega College</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🎓 Educational Portal</td>
+</tr>
+
+<tr>
+<td><a href="https://kanchanjanga.com.np/">🏔️ Kanchanjunga Consultancy</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🌍 Education Consultancy</td>
+</tr>
+
+<tr>
+<td><a href="https://engineerssewa.com/">🏗️ Engineers Sewa</a></td>
+<td>✅ Live</td>
+<td>Laravel, Filament, MySQL, Bootstrap</td>
+<td>🔧 Service Platform</td>
+</tr>
+
+</table>
+</div>
 
 ---
 
