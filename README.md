@@ -56,64 +56,19 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 | [Face Recognition](https://github.com/GaneshGMgr/Machine_Learning_Projects/tree/main/Celebraty_Face_Recognition) | Face/eye detection + wavelet feature extraction, classification via SVM/KNN/Random Forest/Logistic Regression (83% test accuracy) | OpenCV, scikit-learn | ✅ Completed |
 | Additional ML Practice | Classification (Titanic, heart disease, bank fraud) and clustering (customer segmentation, wine clustering) | scikit-learn, Pandas | 🧪 Learning Projects |
 
-### 🌐 Production Web Applications
+## 🌐 Production Web Applications
+
 *Built during a backend development internship at Walkers Hive Pvt. Ltd.*
 
-<div align="center">
-<table>
-<tr><th>Project</th><th>Live URL</th><th>Tech Stack</th><th>Traffic</th></tr>
-
-<tr>
-<td><a href="https://lariox.edu.np/">🎓 Lariox Education Consultancy</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>🌍 Education Consultancy</td>
-</tr>
-
-<tr>
-<td><a href="https://jobtrack.com.np/">💼 JobTrack Recruitment</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>🌐 Recruitment Platform</td>
-</tr>
-
-<tr>
-<td><a href="https://tenzingartgallery.com/">🖼️ Tenzing Art Gallery</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Tailwind</td>
-<td>🚀 High Traffic</td>
-</tr>
-
-<tr>
-<td><a href="https://sumandrivingcenter.com/">🚗 Suman Driving Center</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>📈 Growing</td>
-</tr>
-
-<tr>
-<td><a href="https://www.nepalmegacollege.edu.np/">🏫 Nepal Mega College</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>🎓 Educational Portal</td>
-</tr>
-
-<tr>
-<td><a href="https://kanchanjanga.com.np/">🏔️ Kanchanjunga Consultancy</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>🌍 Education Consultancy</td>
-</tr>
-
-<tr>
-<td><a href="https://engineerssewa.com/">🏗️ Engineers Sewa</a></td>
-<td>✅ Live</td>
-<td>Laravel, Filament, MySQL, Bootstrap</td>
-<td>🔧 Service Platform</td>
-</tr>
-
-</table>
-</div>
+| Project | Live URL | Tech Stack | Traffic |
+|---|---|---|---|
+| [🎓 Lariox Education Consultancy](https://lariox.edu.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🌍 Education Consultancy |
+| [💼 JobTrack Recruitment](https://jobtrack.com.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🌐 Recruitment Platform |
+| [🖼️ Tenzing Art Gallery](https://tenzingartgallery.com/) | ✅ Live | Laravel, Filament, MySQL, Tailwind | 🚀 High Traffic |
+| [🚗 Suman Driving Center](https://sumandrivingcenter.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 📈 Growing |
+| [🏫 Nepal Mega College](https://www.nepalmegacollege.edu.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🎓 Educational Portal |
+| [🏔️ Kanchanjunga Consultancy](https://kanchanjanga.com.np/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🌍 Education Consultancy |
+| [🏗️ Engineers Sewa](https://engineerssewa.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🔧 Service Platform |
 
 ---
 
@@ -156,4 +111,36 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+---
+## 🔥 **Current Focus**
+
+<div align="center">
+  
+  ### 🎯 **Primary Focus Areas**
+  <img src="https://img.shields.io/badge/LLMs-🤖-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic_AI-⚡-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP_(Model_Context_Protocol)-🧠-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-👁️-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Application%2FAPI_Development-🌐-32CD32?style=for-the-badge" />
+  
+  <br><br>
+  
+  <!-- Alternative coding stats without authentication issues -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GaneshGMgr&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=prs,issues" width="95%" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=GaneshGMgr&color=2E8B57&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  
+  <br><br>
+  
+  <p><i>🚀 "Building the future, one intelligent system at a time."</i></p>
+  
+  <sub>📅 Profile Dynamically Updated | 🎯 Last Sync: Today | 🔄 Auto-refreshes Daily</sub>
+  
 </div>
