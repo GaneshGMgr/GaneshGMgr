@@ -71,7 +71,6 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
 | [🏗️ Engineers Sewa](https://engineerssewa.com/) | ✅ Live | Laravel, Filament, MySQL, Bootstrap | 🔧 Service Platform |
 
 ---
-
 ## 🔧 **Technical Stack**
 
 *Listed only where I have a project to back it up.*
@@ -114,6 +113,7 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
     <td>
       <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" />
       <img src="https://img.shields.io/badge/FAISS-00C853?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -129,6 +129,8 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
       <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" />
       <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -137,6 +139,9 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge" />
     </td>
   </tr>
   <tr>
@@ -184,7 +189,6 @@ Winner, Nepal Hacks 2025 — built an AI-powered Information Security QnA Assist
     </td>
   </tr>
 </table>
-
 
 ---
 
